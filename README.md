@@ -1,26 +1,26 @@
-
+# Hello World
 <details>
 <summary>:brazil: PTBR</summary>
 
 ### Olá mundo, sou o Eduardo Talarico (dudushy) :smile:
 
-## Paixões:
+## :sparkling_heart: Paixões:
 
-- :books: Aprender
-- :computer: Programar
-- :raising_hand_man: Ajudar
-- :bulb: Criar
-- :video_game: Jogar
-- :headphones: Ouvir música
+- Aprender :books:
+- Programar :computer:
+- Ajudar :raising_hand_man:
+- Criar :bulb:
+- Jogar :video_game:
+- Ouvir música :headphones:
 
-### Conexões:
+### :globe_with_meridians: Conexões:
 
 [<img align="left" alt="LinkedIn" width="22px" src="img/linkedin.png" />][linkedin]
 [<img align="left" alt="Discord" width="22px" src="img/discord.png" />][discord]
 [<img align="left" alt="Steam" width="22px" src="img/steam.png" />][steam]
 [<img align="left" alt="Spotify" width="22px" src="img/spotify.png" />][spotify]
 
-### Languagens conhecidas:
+### :brain: Languagens conhecidas:
 
 - <img align="left" alt="Python" width="26px" src="img/python.png" /> Python
 - <img align="left" alt="Java" width="26px" src="img/java.png" /> Java
@@ -29,7 +29,7 @@
 - <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML
 - <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS
 
-### Ferramentas conhecidas:
+### :hammer_and_wrench: Ferramentas conhecidas:
 
 - <img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.png" /> [Visual Studio Code][vscode]
 - <img align="left" alt="pgAdmin" width="26px" src="img/pgadmin.png" /> [pgAdmin][pgadmin]
@@ -39,13 +39,13 @@
 
 ---
 
-### Formação:
+### :mortar_board: Formação:
 
 - Ensino médio completo no **Colégio Ideal** *(2018)* :heavy_check_mark:
 - Cursando **Ciência da Computação** na **UNIP (Universidade Paulista)** *(3º ano, período noturno)* :red_circle:
 ---
 
-### Informações adicionais:
+### :heavy_plus_sign: Informações adicionais:
 
 - Conhecimento avançado de Inglês
 
