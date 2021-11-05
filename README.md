@@ -2,7 +2,7 @@
 <details>
 <summary>:green_circle: PTBR</summary>
 
-## `Olá mundo`, sou o Eduardo Talarico (dudushy) :smile:
+## `Olá mundo`, sou o Eduardo Talarico (dudushy) // 21 anos:smile:
 
 ### :sparkling_heart: Paixões:
 
@@ -73,7 +73,7 @@
 <details>
 <summary>:large_blue_circle: ENG</summary>
 
-## `Hello World`, I'm Eduardo Talarico (dudushy) :smile:
+## `Hello World`, I'm Eduardo Talarico (dudushy) // 21 years old :smile:
 
 ### :sparkling_heart: Passions:
 
