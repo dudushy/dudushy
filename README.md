@@ -2,9 +2,9 @@
 <details>
 <summary>:green_circle: PTBR</summary>
 
-### Olá mundo, sou o Eduardo Talarico (dudushy) :smile:
+## Olá mundo, sou o Eduardo Talarico (dudushy) :smile:
 
-## :sparkling_heart: Paixões:
+### :sparkling_heart: Paixões:
 
 - Aprender :books:
 - Programar :computer:
@@ -16,9 +16,10 @@
 ### :globe_with_meridians: Conexões:
 
 [<img align="left" alt="LinkedIn" width="32px" src="img/linkedin.png" />][linkedin]
-[<img align="left" alt="Discord" width="32px" src="img/discord.png" />][discord]
+[<img align="left" alt="Discord" width="42px" src="img/discord.png" />][discord]
 [<img align="left" alt="Steam" width="32px" src="img/steam.png" />][steam]
 [<img align="left" alt="Spotify" width="32px" src="img/spotify.png" />][spotify]
+<br/>
 <br/>
 
 ### :brain: Linguagens de programação conhecidas:
@@ -51,13 +52,13 @@
 
 ---
 
-### :mortar_board: Formação:
+## :mortar_board: Formação:
 
 - Ensino médio completo no **Colégio Ideal** *(2018)* :heavy_check_mark:
-- Cursando **Ciência da Computação** na **UNIP (Universidade Paulista)** *(3º ano, período noturno)* :x:
+- Cursando **Ciência da Computação** na **UNIP (Universidade Paulista)** *(2019 - 2022)* :x:
 ---
 
-### :heavy_plus_sign: Informações adicionais:
+## :heavy_plus_sign: Informações adicionais:
 
 - Conhecimento avançado de Inglês
 
@@ -70,7 +71,74 @@
 </details>
 
 <details>
-<summary>:red_circle: ENG</summary>
+<summary>:large_blue_circle: ENG</summary>
+
+## Hello World, I'm Eduardo Talarico (dudushy) :smile:
+
+### :sparkling_heart: Passions:
+
+- Learn :books:
+- Code :computer:
+- Help :raising_hand_man:
+- Create :bulb:
+- Play :video_game:
+- Listen to music :headphones:
+
+### :globe_with_meridians: Connections:
+
+[<img align="left" alt="LinkedIn" width="32px" src="img/linkedin.png" />][linkedin]
+[<img align="left" alt="Discord" width="42px" src="img/discord.png" />][discord]
+[<img align="left" alt="Steam" width="32px" src="img/steam.png" />][steam]
+[<img align="left" alt="Spotify" width="32px" src="img/spotify.png" />][spotify]
+<br/>
+<br/>
+
+### :brain: Known programming languages:
+
+- <img align="left" alt="Python" width="26px" src="img/python.png" /> Python
+
+- <img align="left" alt="Java" width="26px" src="img/java.png" /> Java
+
+- <img align="left" alt="JavaScript" width="26px" src="img/javascript.png" /> JavaScript
+
+- <img align="left" alt="PostgreSQL" width="26px" src="img/postgresql.png" /> PostgreSQL
+
+- <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML
+
+- <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS
+<br/>
+
+### :hammer_and_wrench: Known tools:
+
+- <img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.png" /> [Visual Studio Code][vscode]
+
+- <img align="left" alt="pgAdmin" width="26px" src="img/pgadmin.png" /> [pgAdmin][pgadmin]
+
+- <img align="left" alt="NetBeans" width="26px" src="img/netbeans.png" /> [NetBeans][netbeans]
+
+- <img align="left" alt="Sublime Text" width="26px" src="img/sublimetext.png" /> [Sublime Text][sublimetext]
+
+- <img align="left" alt="Notepad++" width="26px" src="img/notepadplusplus.png" /> [Notepad++][notepadplusplus]
+<br/>
+
+---
+
+## :mortar_board: Formation:
+
+- Complete high school in **Colégio Ideal** *(2018)* :heavy_check_mark:
+- Attending **Computer Science** in **UNIP (Universidade Paulista)** *(2019 - 2022)* :x:
+---
+
+## :heavy_plus_sign: Informações adicionais:
+
+- Advanced knowledge in English
+
+- Creation of simple Java projects (CRUD)
+
+- Elaboration of some extracurricular projects, making algorithms and BOTs with the aim of automating certain daily tasks (message bot, cryptography, math, text formatting)
+
+- I've been in contact with games and computers (of all kinds and categories, online and offline) since I was little, I've always admired every detail in the games (functioning, graphics, mechanics and development)
+
 
 </details>
 
