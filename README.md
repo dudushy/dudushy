@@ -129,7 +129,7 @@
 - Attending **Computer Science** in **UNIP (Universidade Paulista)** *(2019 - 2022)* :x:
 ---
 
-## :heavy_plus_sign: Informações adicionais:
+## :heavy_plus_sign: Additional information:
 
 - Advanced knowledge in English
 
