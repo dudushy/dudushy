@@ -16,7 +16,7 @@
 ### :globe_with_meridians: Conexões:
 
 [<img align="left" alt="LinkedIn" width="32px" src="img/linkedin.png" />][linkedin]
-[<img align="left" alt="Discord" width="42px" src="img/discord.png" />][discord]
+[<img align="left" alt="Discord" width="52px" src="img/discord.png" />][discord]
 [<img align="left" alt="Steam" width="32px" src="img/steam.png" />][steam]
 [<img align="left" alt="Spotify" width="32px" src="img/spotify.png" />][spotify]
 <br/>
@@ -87,7 +87,7 @@
 ### :globe_with_meridians: Connections:
 
 [<img align="left" alt="LinkedIn" width="32px" src="img/linkedin.png" />][linkedin]
-[<img align="left" alt="Discord" width="42px" src="img/discord.png" />][discord]
+[<img align="left" alt="Discord" width="52px" src="img/discord.png" />][discord]
 [<img align="left" alt="Steam" width="32px" src="img/steam.png" />][steam]
 [<img align="left" alt="Spotify" width="32px" src="img/spotify.png" />][spotify]
 <br/>
