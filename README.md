@@ -1,8 +1,8 @@
-# `Hello World`
+# `Curriculum vitæ`
 <details>
 <summary>:green_circle: PTBR</summary>
 
-## Olá mundo, sou o Eduardo Talarico (dudushy) :smile:
+## `Olá mundo`, sou o Eduardo Talarico (dudushy) :smile:
 
 ### :sparkling_heart: Paixões:
 
@@ -73,7 +73,7 @@
 <details>
 <summary>:large_blue_circle: ENG</summary>
 
-## Hello World, I'm Eduardo Talarico (dudushy) :smile:
+## `Hello World`, I'm Eduardo Talarico (dudushy) :smile:
 
 ### :sparkling_heart: Passions:
 
