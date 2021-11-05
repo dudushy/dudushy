@@ -1,4 +1,4 @@
-# `Curriculum vitæ`
+# `Curriculum Vitae`
 <details>
 <summary>:green_circle: PTBR</summary>
 
