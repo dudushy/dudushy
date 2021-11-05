@@ -1,6 +1,6 @@
-# Hello World
+# `Hello World`
 <details>
-<summary>:brazil: PTBR</summary>
+<summary>:green_circle: PTBR</summary>
 
 ### Olá mundo, sou o Eduardo Talarico (dudushy) :smile:
 
@@ -15,13 +15,13 @@
 
 ### :globe_with_meridians: Conexões:
 
-[<img align="left" alt="LinkedIn" width="22px" src="img/linkedin.png" />][linkedin]
-[<img align="left" alt="Discord" width="22px" src="img/discord.png" />][discord]
-[<img align="left" alt="Steam" width="22px" src="img/steam.png" />][steam]
-[<img align="left" alt="Spotify" width="22px" src="img/spotify.png" />][spotify]
+[<img align="left" alt="LinkedIn" width="32px" src="img/linkedin.png" />][linkedin]
+[<img align="left" alt="Discord" width="32px" src="img/discord.png" />][discord]
+[<img align="left" alt="Steam" width="32px" src="img/steam.png" />][steam]
+[<img align="left" alt="Spotify" width="32px" src="img/spotify.png" />][spotify]
 <br/>
 
-### :brain: Languagens conhecidas:
+### :brain: Linguagens de programação conhecidas:
 
 - <img align="left" alt="Python" width="26px" src="img/python.png" /> Python
 
@@ -63,14 +63,14 @@
 
 - Criação de projetos simples em Java (CRUD)
 
-- Elaboração de alguns trabalhos extracurriculares, fazendo algoritmos e BOTs com intuito de automatizar certas tarefas do dia-a-dia (bot de mensagens, criptografia, matematica, formatação de texto)
+- Elaboração de alguns trabalhos extracurriculares, fazendo algoritmos e BOTs com intuito de automatizar certas tarefas do dia-a-dia (bot de mensagens, criptografia, matemática, formatação de texto)
 
-- Tenho contato com jogos e computadores (de todos os tipos e categorias, online e off-line) desde criança, sempre admirei cada detalhe existente nos jogos (como funcionam, gráficos, mecânicas e desenvolvimento)
+- Tenho contato com jogos e computadores (de todos os tipos e categorias, online e offline) desde pequeno, sempre admirei cada detalhe existente nos jogos (funcionamento, gráficos, mecânicas e desenvolvimento)
 
 </details>
 
 <details>
-<summary>:us: ENG</summary>
+<summary>:red_circle: ENG</summary>
 
 </details>
 
