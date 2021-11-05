@@ -19,6 +19,7 @@
 [<img align="left" alt="Discord" width="22px" src="img/discord.png" />][discord]
 [<img align="left" alt="Steam" width="22px" src="img/steam.png" />][steam]
 [<img align="left" alt="Spotify" width="22px" src="img/spotify.png" />][spotify]
+<br/>
 
 ### :brain: Languagens conhecidas:
 
@@ -28,6 +29,7 @@
 - <img align="left" alt="PostgreSQL" width="26px" src="img/postgresql.png" /> PostgreSQL
 - <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML
 - <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS
+<br/>
 
 ### :hammer_and_wrench: Ferramentas conhecidas:
 
@@ -36,6 +38,7 @@
 - <img align="left" alt="Python" width="26px" src="img/netbeans.png" /> [NetBeans][netbeans]
 - <img align="left" alt="Python" width="26px" src="img/sublimetext.png" /> [Sublime Text][sublimetext]
 - <img align="left" alt="Python" width="26px" src="img/notepadplusplus.pngg" /> [Notepad++][notepadplusplus]
+<br/>
 
 ---
 
