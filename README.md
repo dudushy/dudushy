@@ -24,20 +24,29 @@
 ### :brain: Languagens conhecidas:
 
 - <img align="left" alt="Python" width="26px" src="img/python.png" /> Python
+
 - <img align="left" alt="Java" width="26px" src="img/java.png" /> Java
+
 - <img align="left" alt="JavaScript" width="26px" src="img/javascript.png" /> JavaScript
+
 - <img align="left" alt="PostgreSQL" width="26px" src="img/postgresql.png" /> PostgreSQL
+
 - <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML
+
 - <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS
 <br/>
 
 ### :hammer_and_wrench: Ferramentas conhecidas:
 
 - <img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.png" /> [Visual Studio Code][vscode]
+
 - <img align="left" alt="pgAdmin" width="26px" src="img/pgadmin.png" /> [pgAdmin][pgadmin]
-- <img align="left" alt="Python" width="26px" src="img/netbeans.png" /> [NetBeans][netbeans]
-- <img align="left" alt="Python" width="26px" src="img/sublimetext.png" /> [Sublime Text][sublimetext]
-- <img align="left" alt="Python" width="26px" src="img/notepadplusplus.pngg" /> [Notepad++][notepadplusplus]
+
+- <img align="left" alt="NetBeans" width="26px" src="img/netbeans.png" /> [NetBeans][netbeans]
+
+- <img align="left" alt="Sublime Text" width="26px" src="img/sublimetext.png" /> [Sublime Text][sublimetext]
+
+- <img align="left" alt="Notepad++" width="26px" src="img/notepadplusplus.png" /> [Notepad++][notepadplusplus]
 <br/>
 
 ---
@@ -45,7 +54,7 @@
 ### :mortar_board: Formação:
 
 - Ensino médio completo no **Colégio Ideal** *(2018)* :heavy_check_mark:
-- Cursando **Ciência da Computação** na **UNIP (Universidade Paulista)** *(3º ano, período noturno)* :red_circle:
+- Cursando **Ciência da Computação** na **UNIP (Universidade Paulista)** *(3º ano, período noturno)* :x:
 ---
 
 ### :heavy_plus_sign: Informações adicionais:
