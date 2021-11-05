@@ -24,17 +24,17 @@
 
 ### :brain: Linguagens de programação conhecidas:
 
-- <img align="left" alt="Python" width="26px" src="img/python.png" /> Python
+- <img align="left" alt="Python" width="26px" src="img/python.png" /> Python (Básico | `Intermediário` | Avançado)
 
-- <img align="left" alt="Java" width="26px" src="img/java.png" /> Java
+- <img align="left" alt="Java" width="26px" src="img/java.png" /> Java (`Básico` | Intermediário | Avançado)
 
-- <img align="left" alt="JavaScript" width="26px" src="img/javascript.png" /> JavaScript
+- <img align="left" alt="JavaScript" width="26px" src="img/javascript.png" /> JavaScript (`Básico` | Intermediário | Avançado)
 
-- <img align="left" alt="PostgreSQL" width="26px" src="img/postgresql.png" /> PostgreSQL
+- <img align="left" alt="PostgreSQL" width="26px" src="img/postgresql.png" /> PostgreSQL (`Básico` | Intermediário | Avançado)
 
-- <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML
+- <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML (`Básico` | Intermediário | Avançado)
 
-- <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS
+- <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS (`Básico` | Intermediário | Avançado)
 <br/>
 
 ### :hammer_and_wrench: Ferramentas conhecidas:
@@ -95,17 +95,17 @@
 
 ### :brain: Known programming languages:
 
-- <img align="left" alt="Python" width="26px" src="img/python.png" /> Python
+- <img align="left" alt="Python" width="26px" src="img/python.png" /> Python (Beginner | `Intermediate` | Advanced)
 
-- <img align="left" alt="Java" width="26px" src="img/java.png" /> Java
+- <img align="left" alt="Java" width="26px" src="img/java.png" /> Java (`Beginner` | Intermediate | Advanced)
 
-- <img align="left" alt="JavaScript" width="26px" src="img/javascript.png" /> JavaScript
+- <img align="left" alt="JavaScript" width="26px" src="img/javascript.png" /> JavaScript (`Beginner` | Intermediate | Advanced)
 
-- <img align="left" alt="PostgreSQL" width="26px" src="img/postgresql.png" /> PostgreSQL
+- <img align="left" alt="PostgreSQL" width="26px" src="img/postgresql.png" /> PostgreSQL (`Beginner` | Intermediate | Advanced)
 
-- <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML
+- <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML (`Beginner` | Intermediate | Advanced)
 
-- <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS
+- <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS (`Beginner` | Intermediate | Advanced)
 <br/>
 
 ### :hammer_and_wrench: Known tools:
@@ -140,6 +140,9 @@
 - I've been in contact with games and computers (of all kinds and categories, online and offline) since I was little, I've always admired every detail in the games (functioning, graphics, mechanics and development)
 
 </details>
+
+[![dudushy's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![dudushy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/eduardo-talarico/
 [discord]: https://discord.gg/jG9BtQE
