@@ -4,6 +4,15 @@
 
 ## `Olá mundo`, sou o Eduardo Talarico (dudushy) // 21 anos:smile:
 
+### :trophy: Objetivos:
+
+- Crescer profissionalmente
+- Solucionar problemas
+- Contribuir para a sociedade
+- Adquirir conhecimento
+- Trabalhar em equipe
+- Desenvolver e criar
+
 ### :sparkling_heart: Paixões:
 
 - Aprender :books:
@@ -12,6 +21,19 @@
 - Criar :bulb:
 - Jogar :video_game:
 - Ouvir música :headphones:
+
+### :star2: Qualidades:
+
+- Determinado
+- Prático
+- Calmo
+- Proativo
+- Honesto
+- Prudente
+- Compreensivo
+- Detalhista
+- Persistente
+- Empático
 
 ### :globe_with_meridians: Conexões:
 
@@ -69,11 +91,22 @@
 - Tenho contato com jogos e computadores (de todos os tipos e categorias, online e offline) desde pequeno, sempre admirei cada detalhe existente nos jogos (funcionamento, gráficos, mecânicas e desenvolvimento)
 
 </details>
-<br/>
+
+---
+
 <details>
 <summary>:large_blue_circle: ENG</summary>
 
 ## `Hello World`, I'm Eduardo Talarico (dudushy) // 21 years old :smile:
+
+### :trophy: Goals:
+
+- Grow professionally
+- Solve problems
+- Contribute to society
+- Acquire knowledge
+- Team work
+- Develop and create
 
 ### :sparkling_heart: Passions:
 
@@ -83,6 +116,19 @@
 - Create :bulb:
 - Play :video_game:
 - Listen to music :headphones:
+
+### :star2: Qualities:
+
+- Determined
+- Practical
+- Calm
+- Proactive
+- Honest
+- Prudent
+- Comprehensive
+- Detail-oriented
+- Persistent
+- Empathic
 
 ### :globe_with_meridians: Connections:
 
