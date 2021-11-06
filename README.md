@@ -6,12 +6,12 @@
 
 ### :trophy: Objetivos:
 
-- Crescer profissionalmente
-- Solucionar problemas
-- Contribuir para a sociedade
-- Adquirir conhecimento
-- Trabalhar em equipe
-- Desenvolver e criar
+- Crescer profissionalmente :chart_with_upwards_trend:
+- Solucionar problemas :dart:
+- Contribuir para a sociedade :earth_americas:
+- Adquirir conhecimento :man_student:
+- Trabalhar em equipe :busts_in_silhouette:
+- Desenvolver e criar :man_technologist:
 
 ### :sparkling_heart: Paixões:
 
@@ -24,16 +24,17 @@
 
 ### :star2: Qualidades:
 
-- Determinado
-- Prático
-- Calmo
-- Proativo
-- Honesto
-- Prudente
-- Compreensivo
-- Detalhista
-- Persistente
-- Empático
+- Determinado :star_struck:
+- Prático :thinking:
+- Calmo :sunglasses:
+- Proativo :smiley:
+- Honesto :innocent:
+- Prudente :wink:
+- Compreensivo :hugs:
+- Detalhista :monocle_face:
+- Persistente :grin:
+- Empático :smiling_face_with_three_hearts:
+- Criativo :exploding_head:
 
 ### :globe_with_meridians: Conexões:
 
@@ -101,12 +102,12 @@
 
 ### :trophy: Goals:
 
-- Grow professionally
-- Solve problems
-- Contribute to society
-- Acquire knowledge
-- Team work
-- Develop and create
+- Grow professionally :chart_with_upwards_trend:
+- Solve problems :dart:
+- Contribute to society :earth_americas:
+- Acquire knowledge :man_student:
+- Team work :busts_in_silhouette:
+- Develop and create :man_technologist:
 
 ### :sparkling_heart: Passions:
 
@@ -119,16 +120,17 @@
 
 ### :star2: Qualities:
 
-- Determined
-- Practical
-- Calm
-- Proactive
-- Honest
-- Prudent
-- Comprehensive
-- Detail-oriented
-- Persistent
-- Empathic
+- Determined :star_struck:
+- Practical :thinking:
+- Calm :sunglasses:
+- Proactive :smiley:
+- Honest :innocent:
+- Prudent :wink:
+- Comprehensive :hugs:
+- Detail-oriented :monocle_face:
+- Persistent :grin:
+- Empathic :smiling_face_with_three_hearts:
+- Creative :exploding_head:
 
 ### :globe_with_meridians: Connections:
 
