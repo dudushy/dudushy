@@ -1,6 +1,6 @@
 # `Curriculum Vitae`
 <details>
-<summary>:green_circle: PTBR</summary>
+<summary>:green_circle: PT-BR</summary>
 
 ## `Olá mundo`, sou o Eduardo Talarico (dudushy) // 21 anos:smile:
 
