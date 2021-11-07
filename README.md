@@ -188,6 +188,8 @@
 - I've been in contact with games and computers (of all kinds and categories, online and offline) since I was little, I've always admired every detail in the games (functioning, graphics, mechanics and development)
 
 </details>
+
+---
 <br/>
 
 [![dudushy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
