@@ -2,7 +2,9 @@
 <details>
 <summary>:green_circle: PT-BR</summary>
 
-## `Olá mundo`, sou o Eduardo Talarico (dudushy) // 21 anos:smile:
+## `Olá mundo`, sou o Eduardo Talarico (dudushy) :smile:
+> :brazil: Brasileiro
+> <br> :candle: 21 anos
 
 ### :trophy: Objetivos:
 
@@ -44,8 +46,8 @@
 [<img align="left" alt="Discord" width="52px" src="img/discord.png" />][discord]
 [<img align="left" alt="Steam" width="32px" src="img/steam.png" />][steam]
 [<img align="left" alt="Spotify" width="32px" src="img/spotify.png" />][spotify]
-<br/>
-<br/>
+<br>
+<br>
 
 ---
 ### :brain: Linguagens de programação conhecidas:
@@ -61,7 +63,7 @@
 - <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML (Básico | `Intermediário` | Avançado)
 
 - <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS (`Básico` | Intermediário | Avançado)
-<br/>
+<br>
 
 ### :hammer_and_wrench: Ferramentas conhecidas:
 
@@ -74,7 +76,7 @@
 - <img align="left" alt="Sublime Text" width="26px" src="img/sublimetext.png" /> [Sublime Text][sublimetext]
 
 - <img align="left" alt="Notepad++" width="26px" src="img/notepadplusplus.png" /> [Notepad++][notepadplusplus]
-<br/>
+<br>
 
 ---
 ## :mortar_board: Formação:
@@ -99,7 +101,9 @@
 <details>
 <summary>:large_blue_circle: ENG</summary>
 
-## `Hello World`, I'm Eduardo Talarico (dudushy) // 21 years old :smile:
+## `Hello World`, I'm Eduardo Talarico (dudushy) :smile:
+> :brazil: Brazilian
+> <br> :candle: 21 years old
 
 ### :trophy: Goals:
 
@@ -141,8 +145,8 @@
 [<img align="left" alt="Discord" width="52px" src="img/discord.png" />][discord]
 [<img align="left" alt="Steam" width="32px" src="img/steam.png" />][steam]
 [<img align="left" alt="Spotify" width="32px" src="img/spotify.png" />][spotify]
-<br/>
-<br/>
+<br>
+<br>
 
 ---
 ### :brain: Known programming languages:
@@ -158,7 +162,7 @@
 - <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML (Beginner | `Intermediate` | Advanced)
 
 - <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS (`Beginner` | Intermediate | Advanced)
-<br/>
+<br>
 
 ### :hammer_and_wrench: Known tools:
 
@@ -171,7 +175,7 @@
 - <img align="left" alt="Sublime Text" width="26px" src="img/sublimetext.png" /> [Sublime Text][sublimetext]
 
 - <img align="left" alt="Notepad++" width="26px" src="img/notepadplusplus.png" /> [Notepad++][notepadplusplus]
-<br/>
+<br>
 
 ---
 ## :mortar_board: Formation:
@@ -192,7 +196,7 @@
 
 ---
 </details>
-<br/>
+<br>
 
 [![dudushy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![dudushy's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
