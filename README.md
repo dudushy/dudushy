@@ -37,15 +37,15 @@
 - Criativo :exploding_head:
 - Lógico :nerd_face:
 
+---
 ### :globe_with_meridians: Conexões:
 
 [<img align="left" alt="LinkedIn" width="32px" src="img/linkedin.png" />][linkedin]
 [<img align="left" alt="Discord" width="52px" src="img/discord.png" />][discord]
 [<img align="left" alt="Steam" width="32px" src="img/steam.png" />][steam]
 [<img align="left" alt="Spotify" width="32px" src="img/spotify.png" />][spotify]
-<br/>
-<br/>
 
+---
 ### :brain: Linguagens de programação conhecidas:
 
 - <img align="left" alt="Python" width="26px" src="img/python.png" /> Python (Básico | `Intermediário` | Avançado)
@@ -75,13 +75,12 @@
 <br/>
 
 ---
-
 ## :mortar_board: Formação:
 
 - Ensino médio completo no **Colégio Ideal** *(2018)* :heavy_check_mark:
 - Cursando `6º semestre` de **Ciência da Computação** na **UNIP (Universidade Paulista)** *(2019 - 2022)* :x:
----
 
+---
 ## :heavy_plus_sign: Informações adicionais:
 
 - Conhecimento avançado de Inglês
@@ -133,15 +132,15 @@
 - Creative :exploding_head:
 - Logical :nerd_face:
 
+---
 ### :globe_with_meridians: Connections:
 
 [<img align="left" alt="LinkedIn" width="32px" src="img/linkedin.png" />][linkedin]
 [<img align="left" alt="Discord" width="52px" src="img/discord.png" />][discord]
 [<img align="left" alt="Steam" width="32px" src="img/steam.png" />][steam]
 [<img align="left" alt="Spotify" width="32px" src="img/spotify.png" />][spotify]
-<br/>
-<br/>
 
+---
 ### :brain: Known programming languages:
 
 - <img align="left" alt="Python" width="26px" src="img/python.png" /> Python (Beginner | `Intermediate` | Advanced)
@@ -171,13 +170,12 @@
 <br/>
 
 ---
-
 ## :mortar_board: Formation:
 
 - Complete high school in **Colégio Ideal** *(2018)* :heavy_check_mark:
 - Attending `6th semester` of **Computer Science** in **UNIP (Universidade Paulista)** *(2019 - 2022)* :x:
----
 
+---
 ## :heavy_plus_sign: Additional information:
 
 - Advanced knowledge in English
