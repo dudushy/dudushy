@@ -35,6 +35,7 @@
 - Persistente :grin:
 - Empático :smiling_face_with_three_hearts:
 - Criativo :exploding_head:
+- Lógico :nerd_face:
 
 ### :globe_with_meridians: Conexões:
 
@@ -130,6 +131,7 @@
 - Persistent :grin:
 - Empathic :smiling_face_with_three_hearts:
 - Creative :exploding_head:
+- Logical :nerd_face:
 
 ### :globe_with_meridians: Connections:
 
