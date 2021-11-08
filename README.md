@@ -45,6 +45,7 @@
 [<img align="left" alt="Steam" width="32px" src="img/steam.png" />][steam]
 [<img align="left" alt="Spotify" width="32px" src="img/spotify.png" />][spotify]
 <br/>
+<br/>
 
 ---
 ### :brain: Linguagens de programação conhecidas:
@@ -140,6 +141,7 @@
 [<img align="left" alt="Discord" width="52px" src="img/discord.png" />][discord]
 [<img align="left" alt="Steam" width="32px" src="img/steam.png" />][steam]
 [<img align="left" alt="Spotify" width="32px" src="img/spotify.png" />][spotify]
+<br/>
 <br/>
 
 ---
