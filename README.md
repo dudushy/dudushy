@@ -3,8 +3,7 @@
 <summary>:green_circle: PT-BR</summary>
 
 ## `Olá mundo`, sou o Eduardo Talarico (dudushy) :smile:
-> :brazil: Brasileiro
-> <br> :candle: 21 anos
+> <img align="left" alt="Brazil" width="32px" src="img/brazil.png" /> Brasileiro, 21 anos :birthday:
 
 ### :trophy: Objetivos:
 
@@ -102,8 +101,7 @@
 <summary>:large_blue_circle: ENG</summary>
 
 ## `Hello World`, I'm Eduardo Talarico (dudushy) :smile:
-> :brazil: Brazilian
-> <br> :candle: 21 years old
+> <img align="left" alt="Brazil" width="32px" src="img/brazil.png" /> Brazilian, 21 years old :birthday:
 
 ### :trophy: Goals:
 
