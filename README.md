@@ -194,7 +194,6 @@
 
 ---
 </details>
-<br>
 
 ---
 ## :bar_chart: My Stats:
