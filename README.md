@@ -198,7 +198,7 @@
 
 [![dudushy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![dudushy's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![dudushy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![dudushy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/eduardo-talarico/
