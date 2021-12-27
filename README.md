@@ -197,7 +197,7 @@
 
 ---
 ## :bar_chart: My Stats: 
-![](https://komarev.com/ghpvc/?username=dudushy&color=blueviolet&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=dudushy&color=blueviolet&style=flat-square&label=Total+Profile+View)
 <div align="center">
     <a href="https://github.com/dudushy">
     <img height="172cm" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
