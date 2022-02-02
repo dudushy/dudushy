@@ -198,7 +198,7 @@
 ---
 ## :bar_chart: My Stats: 
 [![profile_views](https://komarev.com/ghpvc/?username=dudushy&color=blueviolet&style=flat-square&label=Total+Profile+Views)](https://github.com/dudushy)
-[![wakatime](https://wakatime.com/badge/user/93ba8c47-113a-429d-a9a3-0fdfb901b21b.svg&style=flat-square)](https://wakatime.com/@93ba8c47-113a-429d-a9a3-0fdfb901b21b/?target=_blank)
+[![wakatime](https://wakatime.com/badge/user/93ba8c47-113a-429d-a9a3-0fdfb901b21b.svg&style=flat-square)](https://wakatime.com/@93ba8c47-113a-429d-a9a3-0fdfb901b21b){target="_blank"}
 <div align="center">
     <a href="https://github.com/dudushy">
     <img height="172cm" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
