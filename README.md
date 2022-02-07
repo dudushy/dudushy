@@ -62,6 +62,8 @@
 - <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML (Básico | `Intermediário` | Avançado)
 
 - <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS (`Básico` | Intermediário | Avançado)
+
+- <img align="left" alt="CSharp" width="26px" src="img/csharp.png" /> C# (`Básico` | Intermediário | Avançado)
 <br>
 
 ### :hammer_and_wrench: Ferramentas conhecidas:
@@ -75,6 +77,8 @@
 - <img align="left" alt="Sublime Text" width="26px" src="img/sublimetext.png" /> [Sublime Text][sublimetext]
 
 - <img align="left" alt="Notepad++" width="26px" src="img/notepadplusplus.png" /> [Notepad++][notepadplusplus]
+
+- <img align="left" alt="Visual Studio" width="26px" src="img/vs.png" /> [Visual Studio][vs]
 <br>
 
 ---
@@ -160,6 +164,8 @@
 - <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML (Beginner | `Intermediate` | Advanced)
 
 - <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS (`Beginner` | Intermediate | Advanced)
+
+- <img align="left" alt="CSharp" width="26px" src="img/csharp.png" /> C# (`Beginner` | Intermediate | Advanced)
 <br>
 
 ### :hammer_and_wrench: Known tools:
@@ -173,6 +179,8 @@
 - <img align="left" alt="Sublime Text" width="26px" src="img/sublimetext.png" /> [Sublime Text][sublimetext]
 
 - <img align="left" alt="Notepad++" width="26px" src="img/notepadplusplus.png" /> [Notepad++][notepadplusplus]
+
+- <img align="left" alt="Visual Studio" width="26px" src="img/vs.png" /> [Visual Studio][vs]
 <br>
 
 ---
@@ -215,3 +223,4 @@
 [netbeans]: https://netbeans.apache.org/
 [sublimetext]: https://www.sublimetext.com/
 [notepadplusplus]: https://notepad-plus-plus.org/
+[vs]: https://visualstudio.microsoft.com/vs/
