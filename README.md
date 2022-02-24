@@ -57,7 +57,7 @@
 
 - <img align="left" alt="JavaScript" width="26px" src="img/javascript.png" /> JavaScript (`Básico` | Intermediário | Avançado)
 
-- <img align="left" alt="PostgreSQL" width="26px" src="img/postgresql.png" /> PostgreSQL (`Básico` | Intermediário | Avançado)
+- <img align="left" alt="SQL" width="26px" src="img/sql.png" /> SQL (`Básico` | Intermediário | Avançado)
 
 - <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML (Básico | `Intermediário` | Avançado)
 
@@ -159,7 +159,7 @@
 
 - <img align="left" alt="JavaScript" width="26px" src="img/javascript.png" /> JavaScript (`Beginner` | Intermediate | Advanced)
 
-- <img align="left" alt="PostgreSQL" width="26px" src="img/postgresql.png" /> PostgreSQL (`Beginner` | Intermediate | Advanced)
+- <img align="left" alt="SQL" width="26px" src="img/sql.png" /> SQL (`Beginner` | Intermediate | Advanced)
 
 - <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML (Beginner | `Intermediate` | Advanced)
 
