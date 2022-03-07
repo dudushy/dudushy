@@ -211,7 +211,8 @@
     <a href="https://github.com/dudushy">
     <img height="172cm" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
     <img height="172cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
-    <img height="155cm" width="999cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact">
 </div>
 
 
