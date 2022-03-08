@@ -212,7 +212,6 @@
 
 - I've been in contact with games and computers (of all kinds and categories, online and offline) since I was little, I've always admired every detail in the games (functioning, graphics, mechanics and development)
 
----
 </details>
 
 ---
