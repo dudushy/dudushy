@@ -80,11 +80,11 @@
 
 - <img align="left" alt="Visual Studio" width="26px" src="img/vs.png" /> [Visual Studio][vs]
 
-- <img align="left" alt="Postman" width="26px" src="img/vs.png" /> [Postman][postman]
+- <img align="left" alt="Postman" width="26px" src="img/postman.png" /> [Postman][postman]
     
-- <img align="left" alt="SSMS" width="26px" src="img/vs.png" /> [SSMS][ssms]
+- <img align="left" alt="SSMS" width="26px" src="img/ssms.png" /> [SSMS][ssms]
     
-- <img align="left" alt="GitHub Desktop" width="26px" src="img/vs.png" /> [GitHub Desktop][githubdesktop]
+- <img align="left" alt="GitHub Desktop" width="26px" src="img/github-desktop.png" /> [GitHub Desktop][githubdesktop]
 <br>
 
 ---
@@ -188,11 +188,11 @@
 
 - <img align="left" alt="Visual Studio" width="26px" src="img/vs.png" /> [Visual Studio][vs]
     
-- <img align="left" alt="Postman" width="26px" src="img/vs.png" /> [Postman][postman]
+- <img align="left" alt="Postman" width="26px" src="img/postman.png" /> [Postman][postman]
     
-- <img align="left" alt="SSMS" width="26px" src="img/vs.png" /> [SSMS][ssms]
+- <img align="left" alt="SSMS" width="26px" src="img/ssms.png" /> [SSMS][ssms]
     
-- <img align="left" alt="GitHub Desktop" width="26px" src="img/vs.png" /> [GitHub Desktop][githubdesktop]
+- <img align="left" alt="GitHub Desktop" width="26px" src="img/github-desktop.png" /> [GitHub Desktop][githubdesktop]
 <br>
 
 ---
