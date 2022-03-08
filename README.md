@@ -7,36 +7,36 @@
 
 ### :trophy: Objetivos:
 
-- Crescer profissionalmente :chart_with_upwards_trend:
-- Solucionar problemas :dart:
-- Contribuir para a sociedade :earth_americas:
-- Adquirir conhecimento :man_student:
-- Trabalhar em equipe :busts_in_silhouette:
-- Desenvolver e criar :man_technologist:
+- Crescer profissionalmente
+- Solucionar problemas
+- Contribuir para a sociedade
+- Adquirir conhecimento
+- Trabalhar em equipe
+- Desenvolver e criar
 
 ### :sparkling_heart: Paixões:
 
-- Aprender :books:
-- Programar :computer:
-- Ajudar :raising_hand_man:
-- Criar :bulb:
-- Jogar :video_game:
-- Ouvir música :headphones:
+- Aprender
+- Programar
+- Ajudar
+- Criar
+- Jogar
+- Ouvir música
 
 ### :star2: Qualidades:
 
-- Determinado :star_struck:
-- Prático :thinking:
-- Calmo :sunglasses:
-- Proativo :smiley:
-- Honesto :innocent:
-- Prudente :wink:
-- Compreensivo :hugs:
-- Detalhista :monocle_face:
-- Persistente :grin:
-- Empático :smiling_face_with_three_hearts:
-- Criativo :exploding_head:
-- Lógico :nerd_face:
+- Determinado
+- Prático
+- Calmo
+- Proativo
+- Honesto
+- Prudente
+- Compreensivo
+- Detalhista
+- Persistente
+- Empático
+- Criativo
+- Lógico
 
 ---
 ### :globe_with_meridians: Conexões:
@@ -51,19 +51,19 @@
 ---
 ### :brain: Linguagens de programação conhecidas:
 
-- <img align="left" alt="Python" width="26px" src="img/python.png" /> Python (Básico | `Intermediário` | Avançado)
+- <img align="left" alt="Python" width="26px" src="img/python.png" /> Python
 
-- <img align="left" alt="Java" width="26px" src="img/java.png" /> Java (Básico | `Intermediário` | Avançado)
+- <img align="left" alt="Java" width="26px" src="img/java.png" /> Java
 
-- <img align="left" alt="JavaScript" width="26px" src="img/javascript.png" /> JavaScript (`Básico` | Intermediário | Avançado)
+- <img align="left" alt="JavaScript" width="26px" src="img/javascript.png" /> JavaScript
 
-- <img align="left" alt="SQL" width="26px" src="img/sql.png" /> SQL (`Básico` | Intermediário | Avançado)
+- <img align="left" alt="SQL" width="26px" src="img/sql.png" /> SQL
 
-- <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML (Básico | `Intermediário` | Avançado)
+- <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML
 
-- <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS (`Básico` | Intermediário | Avançado)
+- <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS
 
-- <img align="left" alt="CSharp" width="26px" src="img/csharp.png" /> C# (`Básico` | Intermediário | Avançado)
+- <img align="left" alt="CSharp" width="26px" src="img/csharp.png" /> C#
 <br>
 
 ### :hammer_and_wrench: Ferramentas conhecidas:
@@ -79,6 +79,12 @@
 - <img align="left" alt="Notepad++" width="26px" src="img/notepadplusplus.png" /> [Notepad++][notepadplusplus]
 
 - <img align="left" alt="Visual Studio" width="26px" src="img/vs.png" /> [Visual Studio][vs]
+
+- <img align="left" alt="Postman" width="26px" src="img/vs.png" /> [Postman][postman]
+    
+- <img align="left" alt="MSSMS" width="26px" src="img/vs.png" /> [MSSMS][mssms]
+    
+- <img align="left" alt="GitHub Desktop" width="26px" src="img/vs.png" /> [GitHub Desktop][githubdesktop]
 <br>
 
 ---
@@ -109,36 +115,36 @@
 
 ### :trophy: Goals:
 
-- Grow professionally :chart_with_upwards_trend:
-- Solve problems :dart:
-- Contribute to society :earth_americas:
-- Acquire knowledge :man_student:
-- Team work :busts_in_silhouette:
-- Develop and create :man_technologist:
+- Grow professionally
+- Solve problems
+- Contribute to society
+- Acquire knowledge
+- Team work
+- Develop and create
 
 ### :sparkling_heart: Passions:
 
-- Learn :books:
-- Code :computer:
-- Help :raising_hand_man:
-- Create :bulb:
-- Play :video_game:
-- Listen to music :headphones:
+- Learn
+- Code
+- Help
+- Create
+- Play
+- Listen to music
 
 ### :star2: Qualities:
 
-- Determined :star_struck:
-- Practical :thinking:
-- Calm :sunglasses:
-- Proactive :smiley:
-- Honest :innocent:
-- Prudent :wink:
-- Comprehensive :hugs:
-- Detail-oriented :monocle_face:
-- Persistent :grin:
-- Empathic :smiling_face_with_three_hearts:
-- Creative :exploding_head:
-- Logical :nerd_face:
+- Determined
+- Practical
+- Calm
+- Proactive
+- Honest
+- Prudent
+- Comprehensive
+- Detail-oriented
+- Persistent
+- Empathic
+- Creative
+- Logical
 
 ---
 ### :globe_with_meridians: Connections:
@@ -153,19 +159,19 @@
 ---
 ### :brain: Known programming languages:
 
-- <img align="left" alt="Python" width="26px" src="img/python.png" /> Python (Beginner | `Intermediate` | Advanced)
+- <img align="left" alt="Python" width="26px" src="img/python.png" /> Python
 
-- <img align="left" alt="Java" width="26px" src="img/java.png" /> Java (Beginner | `Intermediate` | Advanced)
+- <img align="left" alt="Java" width="26px" src="img/java.png" /> Java
 
-- <img align="left" alt="JavaScript" width="26px" src="img/javascript.png" /> JavaScript (`Beginner` | Intermediate | Advanced)
+- <img align="left" alt="JavaScript" width="26px" src="img/javascript.png" /> JavaScript
 
-- <img align="left" alt="SQL" width="26px" src="img/sql.png" /> SQL (`Beginner` | Intermediate | Advanced)
+- <img align="left" alt="SQL" width="26px" src="img/sql.png" /> SQL
 
-- <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML (Beginner | `Intermediate` | Advanced)
+- <img align="left" alt="HTML" width="26px" src="img/html.png" /> HTML
 
-- <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS (`Beginner` | Intermediate | Advanced)
+- <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS
 
-- <img align="left" alt="CSharp" width="26px" src="img/csharp.png" /> C# (`Beginner` | Intermediate | Advanced)
+- <img align="left" alt="CSharp" width="26px" src="img/csharp.png" /> C#
 <br>
 
 ### :hammer_and_wrench: Known tools:
@@ -181,6 +187,12 @@
 - <img align="left" alt="Notepad++" width="26px" src="img/notepadplusplus.png" /> [Notepad++][notepadplusplus]
 
 - <img align="left" alt="Visual Studio" width="26px" src="img/vs.png" /> [Visual Studio][vs]
+    
+- <img align="left" alt="Postman" width="26px" src="img/vs.png" /> [Postman][postman]
+    
+- <img align="left" alt="MSSMS" width="26px" src="img/vs.png" /> [MSSMS][mssms]
+    
+- <img align="left" alt="GitHub Desktop" width="26px" src="img/vs.png" /> [GitHub Desktop][githubdesktop]
 <br>
 
 ---
@@ -226,3 +238,6 @@
 [sublimetext]: https://www.sublimetext.com/
 [notepadplusplus]: https://notepad-plus-plus.org/
 [vs]: https://visualstudio.microsoft.com/vs/
+[postman]: https://www.postman.com/
+[mssms]: https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+[githubdesktop]: https://desktop.github.com/
