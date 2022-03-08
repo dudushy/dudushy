@@ -82,7 +82,7 @@
 
 - <img align="left" alt="Postman" width="26px" src="img/vs.png" /> [Postman][postman]
     
-- <img align="left" alt="MSSMS" width="26px" src="img/vs.png" /> [MSSMS][mssms]
+- <img align="left" alt="SSMS" width="26px" src="img/vs.png" /> [SSMS][ssms]
     
 - <img align="left" alt="GitHub Desktop" width="26px" src="img/vs.png" /> [GitHub Desktop][githubdesktop]
 <br>
@@ -190,7 +190,7 @@
     
 - <img align="left" alt="Postman" width="26px" src="img/vs.png" /> [Postman][postman]
     
-- <img align="left" alt="MSSMS" width="26px" src="img/vs.png" /> [MSSMS][mssms]
+- <img align="left" alt="SSMS" width="26px" src="img/vs.png" /> [SSMS][ssms]
     
 - <img align="left" alt="GitHub Desktop" width="26px" src="img/vs.png" /> [GitHub Desktop][githubdesktop]
 <br>
@@ -238,5 +238,5 @@
 [notepadplusplus]: https://notepad-plus-plus.org/
 [vs]: https://visualstudio.microsoft.com/vs/
 [postman]: https://www.postman.com/
-[mssms]: https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+[ssms]: https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
 [githubdesktop]: https://desktop.github.com/
