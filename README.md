@@ -85,6 +85,8 @@
 - <img align="left" alt="SSMS" width="26px" src="img/ssms.png" /> [SSMS][ssms]
     
 - <img align="left" alt="GitHub Desktop" width="26px" src="img/github-desktop.png" /> [GitHub Desktop][githubdesktop]
+
+- <img align="left" alt="XAMPP" width="26px" src="img/xampp.png" /> [XAMPP][xampp]
 <br>
 
 ---
@@ -193,6 +195,8 @@
 - <img align="left" alt="SSMS" width="26px" src="img/ssms.png" /> [SSMS][ssms]
     
 - <img align="left" alt="GitHub Desktop" width="26px" src="img/github-desktop.png" /> [GitHub Desktop][githubdesktop]
+
+- <img align="left" alt="XAMPP" width="26px" src="img/xampp.png" /> [XAMPP][xampp]
 <br>
 
 ---
