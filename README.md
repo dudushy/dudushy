@@ -244,3 +244,4 @@
 [postman]: https://www.postman.com/
 [ssms]: https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
 [githubdesktop]: https://desktop.github.com/
+[xampp]: https://www.apachefriends.org/pt_br/index.html
