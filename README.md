@@ -64,6 +64,8 @@
 - <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS
 
 - <img align="left" alt="CSharp" width="26px" src="img/csharp.png" /> C#
+
+- <img align="left" alt="PHP" width="26px" src="img/php.png" /> PHP
 <br>
 
 ### :hammer_and_wrench: Ferramentas conhecidas:
@@ -174,6 +176,8 @@
 - <img align="left" alt="CSS" width="26px" src="img/css.png" /> CSS
 
 - <img align="left" alt="CSharp" width="26px" src="img/csharp.png" /> C#
+
+- <img align="left" alt="PHP" width="26px" src="img/php.png" /> PHP
 <br>
 
 ### :hammer_and_wrench: Known tools:
