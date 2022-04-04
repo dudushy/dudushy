@@ -1,6 +1,7 @@
 # `Curriculum Vitae`
+![ptbr](https://img.shields.io/badge/languages-PTBR-darkgreen.svg) ![eng](https://img.shields.io/badge/-ENG-darkblue.svg)
 <details>
-<summary>:green_circle: PT-BR</summary>
+<summary>:green_circle: PTBR</summary>
 
 ## `Olá mundo`, sou o Eduardo Talarico (dudushy) :smile:
 > <img align="left" alt="Brazil" width="22px" src="img/brazil.png" />Brasileiro, 21 anos :birthday:
