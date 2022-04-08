@@ -225,7 +225,7 @@
 
 ---
 ## :bar_chart: My Stats: 
-[![profile_views](https://komarev.com/ghpvc/?username=dudushy&color=blueviolet&style=flat-square&label=Total+Profile+Views)](https://github.com/dudushy)
+[![profile_views](https://komarev.com/ghpvc/?username=dudushy&color=blueviolet&style=flat-square&label=Profile+Views+(since+Dec+25,+2021))](https://github.com/dudushy)
 [![wakatime](https://wakatime.com/badge/user/93ba8c47-113a-429d-a9a3-0fdfb901b21b.svg)](https://wakatime.com/@93ba8c47-113a-429d-a9a3-0fdfb901b21b)
 <div align="center">
     <a href="https://github.com/dudushy">
