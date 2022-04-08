@@ -227,13 +227,13 @@
 ## :bar_chart: My Stats: 
 [![profile_views](https://komarev.com/ghpvc/?username=dudushy&color=blueviolet&style=flat-square&label=Total+Profile+Views)](https://github.com/dudushy)
 [![wakatime](https://wakatime.com/badge/user/93ba8c47-113a-429d-a9a3-0fdfb901b21b.svg)](https://wakatime.com/@93ba8c47-113a-429d-a9a3-0fdfb901b21b)
-<div align="center">
+<div style="display: block" align="center">
     <a href="https://github.com/dudushy">
-        <img height="172cm" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
-        <img height="172cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
-        <img height="172cm" width="1000cm" src="https://github-readme-streak-stats.herokuapp.com/?user=dudushy&theme=dark">
+        <img style="object-fit: cover" height="190cm" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
+        <img style="object-fit: cover" height="190cm" src="https://github-readme-streak-stats.herokuapp.com/?user=dudushy&theme=dark">
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact">
+        <img style="object-fit: cover" height="370cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark">
+        <img style="object-fit: cover" height="370cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy">     
     </a>
 </div>
 
