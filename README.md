@@ -230,9 +230,10 @@
 <div align="center">
     <a href="https://github.com/dudushy">
         <img height="172cm" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
-        <img height="172cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
-        <img height="172cm" width="1000cm" src="https://github-readme-streak-stats.herokuapp.com/?user=dudushy&theme=dark">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy">
+        <img height="172cm" src="https://github-readme-streak-stats.herokuapp.com/?user=dudushy&theme=dark">
+        <br>
+        <img height="198cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
+        <img height="198cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact">
     </a>
 </div>
 
