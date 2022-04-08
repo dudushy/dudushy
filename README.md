@@ -229,8 +229,8 @@
 [![wakatime](https://wakatime.com/badge/user/93ba8c47-113a-429d-a9a3-0fdfb901b21b.svg)](https://wakatime.com/@93ba8c47-113a-429d-a9a3-0fdfb901b21b)
 <div align="center">
     <a href="https://github.com/dudushy">
-        <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
-        <img height="165cm" src="https://github-readme-streak-stats.herokuapp.com/?user=dudushy&theme=dark">
+        <img height="164cm" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
+        <img height="164cm" src="https://github-readme-streak-stats.herokuapp.com/?user=dudushy&theme=dark">
         <br>
         <img height="188cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
         <img height="188cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact">
