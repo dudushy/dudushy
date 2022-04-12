@@ -227,13 +227,16 @@
 ## :bar_chart: My Stats: 
 [![profile_views](https://komarev.com/ghpvc/?username=dudushy&color=blueviolet&style=flat-square&label=Total+Profile+Views)](https://github.com/dudushy "since Dec 25, 2021")
 [![wakatime](https://wakatime.com/badge/user/93ba8c47-113a-429d-a9a3-0fdfb901b21b.svg)](https://wakatime.com/@93ba8c47-113a-429d-a9a3-0fdfb901b21b "since Apr 8, 2021")
+
 <div align="center">
     <a href="https://github.com/dudushy">
-        <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
-        <img height="165cm" src="https://github-readme-streak-stats.herokuapp.com/?user=dudushy&theme=dark">
+        <!-- old method: height="165cm" -->
+        <img style="float: left; width: 100px; height: 100px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
+        <img style="float: left; width: 100px; height: 100px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=dudushy&theme=dark">
         <br>
-        <img height="189cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
-        <img height="189cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact">
+        <!-- old method: height="189cm" -->
+        <img style="float: left; width: 100px; height: 100px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
+        <img style="float: left; width: 100px; height: 100px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact">
     </a>
 </div>
 
