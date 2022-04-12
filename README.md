@@ -231,12 +231,12 @@
 <div align="center">
     <a href="https://github.com/dudushy">
         <!-- old method: height="165cm" -->
-        <img style="float: left; width: 420px; height: 240px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
-        <img style="float: left; width: 420px; height: 240px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=dudushy&theme=dark">
+        <img style="float: left; width: 420px; height: 220px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
+        <img style="float: left; width: 420px; height: 220px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=dudushy&theme=dark">
         <br>
         <!-- old method: height="189cm" -->
-        <img style="float: left; width: 420px; height: 240px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
-        <img style="float: left; width: 420px; height: 240px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact">
+        <img style="float: left; width: 420px; height: 220px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
+        <img style="float: left; width: 420px; height: 220px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact">
     </a>
 </div>
 
