@@ -236,7 +236,7 @@
         <br>
         <!-- old method: height="189cm" -->
         <img style="float: left; width: 420px; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
-        <img style="float: left; width: 420px; height: 205px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact">
+        <img style="float: left; width: 420px; height: 202px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact">
     </a>
 </div>
 
