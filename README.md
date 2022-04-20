@@ -1,5 +1,5 @@
 # `Curriculum Vitae`
-![ptbr](https://img.shields.io/badge/languages-PTBR-darkgreen.svg) ![eng](https://img.shields.io/badge/-ENG-darkblue.svg)
+![ptbr](https://img.shields.io/badge/languages-PTBR-darkgreen.svg "Português Brasileiro") ![eng](https://img.shields.io/badge/-ENG-darkblue.svg "English")
 <details>
 <summary>:green_circle: PTBR</summary>
 
