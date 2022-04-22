@@ -236,7 +236,7 @@
         <br>
         <!-- old method: height="189cm" -->
         <img style="float: left; width: 420px; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
-        <img style="" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact" title="last 7 days">
+        <img style="object-fit: cover;" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact" title="last 7 days">
     </a>
 </div>
 
