@@ -230,13 +230,26 @@
 
 <div align="center">
     <a href="https://github.com/dudushy">
-        <!-- old method: height="165cm" -->
-        <img style="float: left; width: 420px; height: 170px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
-        <img style="float: left; width: 420px; height: 170px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=dudushy&theme=dark">
-        <br>
-        <!-- old method: height="189cm" -->
-        <img style="float: left; width: 420px; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
-        <img style="float: left; width: 422px; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact" title="last 7 days">
+        <!-- old method: style="float: left; width: 420px; height: 170px; object-fit: cover;" -->
+        <!-- old method: style="float: left; width: 420px; height: 200px; object-fit: cover;" -->
+        <table>
+            <tr>
+                <td>
+                    <img style="vertical-align: bottom; display:block; object-fit: cover;" width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
+                </td>
+                <td>
+                    <img style="vertical-align: bottom; display:block; object-fit: cover;" width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dudushy&theme=dark">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img style="vertical-align: bottom; display:block; object-fit: cover;" width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
+                </td>
+                <td>
+                    <img style="vertical-align: bottom; display:block; object-fit: cover;" width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact" title="last 7 days">
+                </td>
+            </tr>
+        </table>
     </a>
 </div>
 
