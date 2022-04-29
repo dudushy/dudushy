@@ -246,7 +246,7 @@
                     <img style="vertical-align: bottom; display:block; object-fit: cover;" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudushy&theme=dark&layout=compact">
                 </td>
                 <td>
-                    <img style="vertical-align: bottom; display:block; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact" title="last 7 days">
+                    <img style="vertical-align: bottom; display:block; object-fit: cover;" height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dudushy&layout=compact" title="last 7 days">
                 </td>
             </tr>
         </table>
