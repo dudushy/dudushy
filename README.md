@@ -232,7 +232,7 @@
     <a href="https://github.com/dudushy">
         <!-- old method: style="float: left; width: 420px; height: 170px; object-fit: cover;" -->
         <!-- old method: style="float: left; width: 420px; height: 200px; object-fit: cover;" -->
-        <table>
+        <table style="table-layout: auto;">
             <tr>
                 <td>
                     <img style="vertical-align: bottom; display:block; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=dudushy&theme=dark&show_icons=true&count_private=true">
