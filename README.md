@@ -67,6 +67,8 @@
 - <img align="left" alt="CSharp" width="26px" src="img/csharp.png" /> C#
 
 - <img align="left" alt="PHP" width="26px" src="img/php.png" /> PHP
+    
+<!-- typescript -->
 <br>
 
 ### :hammer_and_wrench: Ferramentas conhecidas:
@@ -90,6 +92,8 @@
 - <img align="left" alt="GitHub Desktop" width="26px" src="img/github-desktop.png" /> [GitHub Desktop][githubdesktop]
 
 - <img align="left" alt="XAMPP" width="26px" src="img/xampp.png" /> [XAMPP][xampp]
+
+<!-- bluestacks -->
 <br>
 
 ---
@@ -179,6 +183,8 @@
 - <img align="left" alt="CSharp" width="26px" src="img/csharp.png" /> C#
 
 - <img align="left" alt="PHP" width="26px" src="img/php.png" /> PHP
+    
+<!-- typescript -->
 <br>
 
 ### :hammer_and_wrench: Known tools:
@@ -202,6 +208,8 @@
 - <img align="left" alt="GitHub Desktop" width="26px" src="img/github-desktop.png" /> [GitHub Desktop][githubdesktop]
 
 - <img align="left" alt="XAMPP" width="26px" src="img/xampp.png" /> [XAMPP][xampp]
+    
+<!-- bluestacks -->
 <br>
 
 ---
