@@ -68,7 +68,8 @@
 
 - <img align="left" alt="PHP" width="26px" src="img/php.png" /> PHP
     
-<!-- typescript -->
+- <img align="left" alt="TypeScript" width="26px" src="img/typescript.png" /> TypeScript
+    
 <br>
 
 ### :hammer_and_wrench: Ferramentas conhecidas:
@@ -92,8 +93,9 @@
 - <img align="left" alt="GitHub Desktop" width="26px" src="img/github-desktop.png" /> [GitHub Desktop][githubdesktop]
 
 - <img align="left" alt="XAMPP" width="26px" src="img/xampp.png" /> [XAMPP][xampp]
+    
+- <img align="left" alt="BlueStacks" width="26px" src="img/bluestacks.png" /> [BlueStacks][bluestacks]
 
-<!-- bluestacks -->
 <br>
 
 ---
@@ -184,7 +186,7 @@
 
 - <img align="left" alt="PHP" width="26px" src="img/php.png" /> PHP
     
-<!-- typescript -->
+- <img align="left" alt="TypeScript" width="26px" src="img/typescript.png" /> TypeScript
 <br>
 
 ### :hammer_and_wrench: Known tools:
@@ -209,7 +211,7 @@
 
 - <img align="left" alt="XAMPP" width="26px" src="img/xampp.png" /> [XAMPP][xampp]
     
-<!-- bluestacks -->
+- <img align="left" alt="BlueStacks" width="26px" src="img/bluestacks.png" /> [BlueStacks][bluestacks]
 <br>
 
 ---
@@ -280,3 +282,4 @@
 [ssms]: https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
 [githubdesktop]: https://desktop.github.com/
 [xampp]: https://www.apachefriends.org/pt_br/index.html
+[bluestacks]: https://www.bluestacks.com/
