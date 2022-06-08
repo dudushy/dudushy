@@ -70,6 +70,8 @@
     
 - <img align="left" alt="TypeScript" width="26px" src="img/typescript.png" /> TypeScript
     
+- <img align="left" alt="SASS" width="26px" src="img/sass.png" /> SASS
+    
 <br>
 
 ### :hammer_and_wrench: Ferramentas conhecidas:
@@ -187,6 +189,8 @@
 - <img align="left" alt="PHP" width="26px" src="img/php.png" /> PHP
     
 - <img align="left" alt="TypeScript" width="26px" src="img/typescript.png" /> TypeScript
+    
+- <img align="left" alt="SASS" width="26px" src="img/sass.png" /> SASS
 <br>
 
 ### :hammer_and_wrench: Known tools:
