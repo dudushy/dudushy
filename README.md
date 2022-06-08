@@ -71,7 +71,6 @@
 - <img align="left" alt="TypeScript" width="26px" src="img/typescript.png" /> TypeScript
     
 - <img align="left" alt="SASS" width="26px" src="img/sass.png" /> SASS
-    
 <br>
 
 ### :hammer_and_wrench: Ferramentas conhecidas:
@@ -97,7 +96,6 @@
 - <img align="left" alt="XAMPP" width="26px" src="img/xampp.png" /> [XAMPP][xampp]
     
 - <img align="left" alt="BlueStacks" width="26px" src="img/bluestacks.png" /> [BlueStacks][bluestacks]
-
 <br>
 
 ---
