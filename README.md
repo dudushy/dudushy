@@ -114,7 +114,7 @@
 - Elaboração de trabalhos extracurriculares, fazendo algoritmos e BOTs com intuito de automatizar certas tarefas do dia-a-dia (bot de mensagens, criptografia, matemática, formatação de texto)
 
 - Tenho contato com jogos e computadores (de todos os tipos e categorias, online e offline) desde pequeno, sempre admirei cada detalhe existente nos jogos (funcionamento, gráficos, mecânicas e desenvolvimento)
-<p align="right">(<a href="#curriculum-vitae">back to top</a>)</p>
+<p align="right">(<a href="#curriculum-vitae">voltar ao topo</a>)</p>
 
 ---
 </details>
