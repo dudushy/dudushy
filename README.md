@@ -102,7 +102,7 @@
 ## :mortar_board: Formação:
 
 - Ensino médio completo no **Colégio Ideal** *(2018)* :heavy_check_mark:
-- Cursando `7º semestre` de **Ciência da Computação** na **UNIP (Universidade Paulista)** *(2019 - 2022)* :x:
+- Cursando `8º semestre` de **Ciência da Computação** na **UNIP (Universidade Paulista)** *(2019 - 2022)* :x:
 
 ---
 ## :heavy_plus_sign: Informações adicionais:
@@ -221,7 +221,7 @@
 ## :mortar_board: Formation:
 
 - Complete high school in **Colégio Ideal** *(2018)* :heavy_check_mark:
-- Attending `7th semester` of **Computer Science** in **UNIP (Universidade Paulista)** *(2019 - 2022)* :x:
+- Attending `8th semester` of **Computer Science** in **UNIP (Universidade Paulista)** *(2019 - 2022)* :x:
 
 ---
 ## :heavy_plus_sign: Additional information:
