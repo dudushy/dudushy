@@ -96,6 +96,8 @@
 - <img align="left" alt="XAMPP" width="26px" src="img/xampp.png" /> [XAMPP][xampp]
     
 - <img align="left" alt="BlueStacks" width="26px" src="img/bluestacks.png" /> [BlueStacks][bluestacks]
+
+<!-- - <img align="left" alt="Insomnia" width="26px" src="img/insomnia.png" /> [Insomnia][insomnia] -->
 <br>
 
 ---
@@ -215,6 +217,8 @@
 - <img align="left" alt="XAMPP" width="26px" src="img/xampp.png" /> [XAMPP][xampp]
     
 - <img align="left" alt="BlueStacks" width="26px" src="img/bluestacks.png" /> [BlueStacks][bluestacks]
+
+<!-- - <img align="left" alt="Insomnia" width="26px" src="img/insomnia.png" /> [Insomnia][insomnia] -->
 <br>
 
 ---
@@ -281,3 +285,4 @@
 [githubdesktop]: https://desktop.github.com/
 [xampp]: https://www.apachefriends.org/pt_br/index.html
 [bluestacks]: https://www.bluestacks.com/
+[insomnia]: https://insomnia.rest/
