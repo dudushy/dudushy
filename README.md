@@ -97,7 +97,7 @@
     
 - <img align="left" alt="BlueStacks" width="26px" src="img/bluestacks.png" /> [BlueStacks][bluestacks]
 
-<!-- - <img align="left" alt="Insomnia" width="26px" src="img/insomnia.png" /> [Insomnia][insomnia] -->
+- <img align="left" alt="Insomnia" width="26px" src="img/insomnia.png" /> [Insomnia][insomnia]
 <br>
 
 ---
@@ -218,7 +218,7 @@
     
 - <img align="left" alt="BlueStacks" width="26px" src="img/bluestacks.png" /> [BlueStacks][bluestacks]
 
-<!-- - <img align="left" alt="Insomnia" width="26px" src="img/insomnia.png" /> [Insomnia][insomnia] -->
+- <img align="left" alt="Insomnia" width="26px" src="img/insomnia.png" /> [Insomnia][insomnia]
 <br>
 
 ---
