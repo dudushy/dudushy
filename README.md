@@ -98,6 +98,8 @@
 - <img align="left" alt="BlueStacks" width="26px" src="img/bluestacks.png" /> [BlueStacks][bluestacks]
 
 - <img align="left" alt="Insomnia" width="26px" src="img/insomnia.png" /> [Insomnia][insomnia]
+
+<!-- TODO - <img align="left" alt="Android Studio" width="26px" src="img/androidstudio.png" /> [Android Studio][androidstudio] -->
 <br>
 
 ---
@@ -219,6 +221,8 @@
 - <img align="left" alt="BlueStacks" width="26px" src="img/bluestacks.png" /> [BlueStacks][bluestacks]
 
 - <img align="left" alt="Insomnia" width="26px" src="img/insomnia.png" /> [Insomnia][insomnia]
+
+<!-- TODO - <img align="left" alt="Android Studio" width="26px" src="img/androidstudio.png" /> [Android Studio][androidstudio] -->
 <br>
 
 ---
