@@ -99,7 +99,7 @@
 
 - <img align="left" alt="Insomnia" width="26px" src="img/insomnia.png" /> [Insomnia][insomnia]
 
-<!-- TODO - <img align="left" alt="Android Studio" width="26px" src="img/androidstudio.png" /> [Android Studio][androidstudio] -->
+ - <img align="left" alt="Android Studio" width="26px" src="img/androidstudio.png" /> [Android Studio][androidstudio]
 <br>
 
 ---
@@ -222,7 +222,7 @@
 
 - <img align="left" alt="Insomnia" width="26px" src="img/insomnia.png" /> [Insomnia][insomnia]
 
-<!-- TODO - <img align="left" alt="Android Studio" width="26px" src="img/androidstudio.png" /> [Android Studio][androidstudio] -->
+- <img align="left" alt="Android Studio" width="26px" src="img/androidstudio.png" /> [Android Studio][androidstudio]
 <br>
 
 ---
@@ -290,3 +290,4 @@
 [xampp]: https://www.apachefriends.org/pt_br/index.html
 [bluestacks]: https://www.bluestacks.com/
 [insomnia]: https://insomnia.rest/
+[androidstudio]: https://developer.android.com/studio
