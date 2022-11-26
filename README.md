@@ -248,7 +248,6 @@
 ---
 ## :bar_chart: My Stats:
 [![profile_visits](https://komarev.com/ghpvc/?username=dudushy&color=blueviolet&style=flat-square&label=Profile+Visits)](https://github.com/dudushy "since Dec 25, 2021")
-[![total-stars](https://img.shields.io/github/stars/dudushy?label=Total+Stars)](https://github.com/dudushy)
 [![github](https://img.shields.io/github/followers/dudushy?logo=github)](https://github.com/dudushy?tab=followers)
 [![wakatime](https://wakatime.com/badge/user/93ba8c47-113a-429d-a9a3-0fdfb901b21b.svg)](https://wakatime.com/@93ba8c47-113a-429d-a9a3-0fdfb901b21b "since Apr 8, 2021")
 
