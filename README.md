@@ -130,6 +130,11 @@
 - Elaboração de trabalhos extracurriculares, fazendo algoritmos e BOTs com intuito de automatizar certas tarefas do dia-a-dia (bot de mensagens, criptografia, matemática, formatação de texto)
 
 - Tenho contato com jogos e computadores (de todos os tipos e categorias, online e offline) desde pequeno, sempre admirei cada detalhe existente nos jogos (funcionamento, gráficos, mecânicas e desenvolvimento)
+
+- Projetos Open Source no GitHub
+
+- Freelances de Websites
+
 <p align="right">(<a href="#curriculum-vitae">voltar ao topo</a>)</p>
 
 ---
@@ -265,6 +270,10 @@
 - Elaboration of extracurricular projects, making algorithms and BOTs with the aim of automating certain daily tasks (message bot, cryptography, math, text formatting)
 
 - I've been in contact with games and computers (of all kinds and categories, online and offline) since I was little, I've always admired every detail in the games (functioning, graphics, mechanics and development)
+
+- Open Source Projects on GitHub
+
+- Websites Freelances 
 
 <p align="right">(<a href="#curriculum-vitae">back to top</a>)</p>
 </details>
