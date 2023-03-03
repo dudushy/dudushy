@@ -100,6 +100,8 @@
 - <img align="left" alt="Insomnia" width="26px" src="img/insomnia.png" /> [Insomnia][insomnia]
 
  - <img align="left" alt="Android Studio" width="26px" src="img/androidstudio.png" /> [Android Studio][androidstudio]
+    
+ - <img align="left" alt="FileZilla" width="26px" src="img/filezilla.png" /> [FileZilla][filezilla]
 <br>
 
 ---
@@ -223,6 +225,8 @@
 - <img align="left" alt="Insomnia" width="26px" src="img/insomnia.png" /> [Insomnia][insomnia]
 
 - <img align="left" alt="Android Studio" width="26px" src="img/androidstudio.png" /> [Android Studio][androidstudio]
+   
+- <img align="left" alt="FileZilla" width="26px" src="img/filezilla.png" /> [FileZilla][filezilla]
 <br>
 
 ---
@@ -292,3 +296,4 @@
 [bluestacks]: https://www.bluestacks.com/
 [insomnia]: https://insomnia.rest/
 [androidstudio]: https://developer.android.com/studio
+[filezilla]: [https://developer.android.com/studio](https://filezilla-project.org/)
