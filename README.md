@@ -296,4 +296,4 @@
 [bluestacks]: https://www.bluestacks.com/
 [insomnia]: https://insomnia.rest/
 [androidstudio]: https://developer.android.com/studio
-[filezilla]: [https://developer.android.com/studio](https://filezilla-project.org/)
+[filezilla]: https://filezilla-project.org/
