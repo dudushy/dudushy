@@ -121,6 +121,29 @@
 - Ensino superior completo em **Ciência da Computação** na **UNIP (Universidade Paulista)** *(2019 - 2022)* :heavy_check_mark:
 
 ---
+## :bookmark_tabs: Experiência:
+
+- Estagiário **SPEDO TECNOLOGIA LTDA** (*05/2022 - 12/2022*) :heavy_check_mark:
+    > 1. Desenvolvimento de Aplicação Web (PHP, JavaScript, Angular)
+    > 2. Desenvolvimento de Aplicações Mobile (Ionic, Angular, NodeJS)
+    > 3. Estruturação e manutenção em Banco de Dados (MySQL, phpMyAdmin, SQLite)
+    > 4. Integração de plugins, páginas, componentes, mídias e serviços
+    > 5. Consumo de Web Services e APIs
+    > 6. Criação de layouts, paletas de cores
+    > 7. Desenvolvimento e manutenção de múltiplos apps
+    > 8. Correção de bugs
+    > 9. Interfaces dinâmicas e responsivas
+    > 10. Manipulação de arquivos
+    > 11. Formatação de texto, imagem, data e dados
+    > 12. Sincronização de dados em nuvem
+    > 13. Utilização de Emuladores para testar e desenvolver apps
+
+- Analista de Sistemas **SPEDO TECNOLOGIA LTDA** (*02/2023*) :diamond_shape_with_a_dot_inside:
+    > 1. Estruturação e desenvolvimento de Aplicações Mobile (Ionic, Angular, NodeJS)
+    > 2. Criação e consumo de Banco de Dados (SQLite)
+    > 3. Consumo de Web Services e APIs
+
+---
 ## :heavy_plus_sign: Informações adicionais:
 
 - Conhecimento avançado de Inglês
@@ -259,6 +282,29 @@
 
 - Complete high school at **Colégio Ideal** *(2018)* :heavy_check_mark:
 - Complete university in **Computer Science** at **UNIP (Universidade Paulista)** *(2019 - 2022)* :heavy_check_mark:
+
+---
+## :bookmark_tabs: Experience:
+
+- Trainee **SPEDO TECNOLOGIA LTDA** (*05/2022 - 12/2022*) :heavy_check_mark:
+    > 1. Web Application Development (PHP, JavaScript, Angular)
+    > 2. Mobile Applications Development (Ionic, Angular, NodeJS)
+    > 3. Database structuring and maintenance (MySQL, phpMyAdmin, SQLite)
+    > 4. Integration of plugins, pages, components, media and services
+    > 5. Use of Web Services and APIs
+    > 6. Creation of layouts, color palettes
+    > 7. Development and maintenance of multiple apps
+    > 8. Bug fixes
+    > 9. Dynamic and responsive interfaces
+    > 10. File manipulation
+    > 11. Text, image, date and data formatting
+    > 12. Cloud data sync
+    > 13. Using of Emulators to test and develop apps
+
+- Systems Analyst **SPEDO TECNOLOGIA LTDA** (*02/2023*) :diamond_shape_with_a_dot_inside:
+    > 1. Structuring and development of Mobile Applications (Ionic, Angular, NodeJS)
+    > 2. Database creation and use (SQLite)
+    > 3. Use of Web Services and APIs
 
 ---
 ## :heavy_plus_sign: Additional information:
