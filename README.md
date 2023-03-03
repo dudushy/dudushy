@@ -99,9 +99,19 @@
 
 - <img align="left" alt="Insomnia" width="26px" src="img/insomnia.png" /> [Insomnia][insomnia]
 
- - <img align="left" alt="Android Studio" width="26px" src="img/androidstudio.png" /> [Android Studio][androidstudio]
+- <img align="left" alt="Android Studio" width="26px" src="img/androidstudio.png" /> [Android Studio][androidstudio]
+
+- <img align="left" alt="FileZilla" width="26px" src="img/filezilla.png" /> [FileZilla][filezilla]
+
+- <img align="left" alt="Ionic" width="26px" src="img/ionic.png" /> [Ionic][ionic]
+
+- <img align="left" alt="NodeJS" width="26px" src="img/nodejs.png" /> [NodeJS][nodejs]
     
- - <img align="left" alt="FileZilla" width="26px" src="img/filezilla.png" /> [FileZilla][filezilla]
+- <img align="left" alt="AWS" width="26px" src="img/aws.png" /> [AWS][aws]
+    
+- <img align="left" alt="Angular" width="26px" src="img/angular.png" /> [Angular][angular]
+    
+- <img align="left" alt="Firebase" width="26px" src="img/firebase.png" /> [Firebase][firebase]
 <br>
 
 ---
@@ -227,6 +237,16 @@
 - <img align="left" alt="Android Studio" width="26px" src="img/androidstudio.png" /> [Android Studio][androidstudio]
    
 - <img align="left" alt="FileZilla" width="26px" src="img/filezilla.png" /> [FileZilla][filezilla]
+
+- <img align="left" alt="Ionic" width="26px" src="img/ionic.png" /> [Ionic][ionic]
+
+- <img align="left" alt="NodeJS" width="26px" src="img/nodejs.png" /> [NodeJS][nodejs]
+    
+- <img align="left" alt="AWS" width="26px" src="img/aws.png" /> [AWS][aws]
+    
+- <img align="left" alt="Angular" width="26px" src="img/angular.png" /> [Angular][angular]
+    
+- <img align="left" alt="Firebase" width="26px" src="img/firebase.png" /> [Firebase][firebase]
 <br>
 
 ---
@@ -297,3 +317,8 @@
 [insomnia]: https://insomnia.rest/
 [androidstudio]: https://developer.android.com/studio
 [filezilla]: https://filezilla-project.org/
+[ionic]: https://ionic.io/
+[nodejs]: https://nodejs.org/
+[aws]: https://aws.amazon.com/
+[angular]: https://angular.io/
+[firebase]: https://firebase.google.com/
