@@ -356,7 +356,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/eduardo-talarico/
-[discord]: https://discord.gg/jG9BtQE
+[discord]: https://discordapp.com/users/564590102949658634
 [steam]: https://steamcommunity.com/id/dudushy/
 [spotify]: https://open.spotify.com/user/u8cq59bsrp4cdmp2haxrxu9pi
 [vscode]: https://code.visualstudio.com/
