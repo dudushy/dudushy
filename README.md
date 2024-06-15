@@ -144,21 +144,21 @@
 - :diamond_shape_with_a_dot_inside: (*02/2024*) Programador de Sistemas de Informação  **Upriset Solucoes**
 
 ###### Resumo de atividades:
-> Desenvolvimento de Aplicações Web (PHP, JavaScript, Angular)
-> Desenvolvimento de Aplicações Mobile (Ionic, Angular, NodeJS)
-> Estruturação e manutenção em Banco de Dados (MySQL, phpMyAdmin, SQLite)
-> Integração de plugins, páginas, componentes, mídias e serviços
-> Consumo de Web Services e APIs
-> Criação de layouts, paletas de cores
-> Desenvolvimento e manutenção de múltiplos apps
-> Correção de bugs
-> Interfaces dinâmicas e responsivas
-> Manipulação de arquivos
-> Formatação de texto, imagem, data e dados
-> Sincronização de dados em nuvem
-> Utilização de Emuladores para testar e desenvolver apps
-> Estruturação e desenvolvimento de Aplicações Mobile
-> Criação e consumo de Banco de Dados (SQLite)
+> - Desenvolvimento de Aplicações Web (PHP, JavaScript, Angular)
+> - Desenvolvimento de Aplicações Mobile (Ionic, Angular, NodeJS)
+> - Estruturação e manutenção em Banco de Dados (MySQL, phpMyAdmin, SQLite)
+> - Integração de plugins, páginas, componentes, mídias e serviços
+> - Consumo de Web Services e APIs
+> - Criação de layouts, paletas de cores
+> - Desenvolvimento e manutenção de múltiplos apps
+> - Correção de bugs
+> - Interfaces dinâmicas e responsivas
+> - Manipulação de arquivos
+> - Formatação de texto, imagem, data e dados
+> - Sincronização de dados em nuvem
+> - Utilização de Emuladores para testar e desenvolver apps
+> - Estruturação e desenvolvimento de Aplicações Mobile
+> - Criação e consumo de Banco de Dados (SQLite)
 
 ---
 ## :heavy_plus_sign: Informações adicionais:
@@ -183,7 +183,7 @@
 <details>
 <summary>:large_blue_circle: ENG</summary>
 
-## `Hello World`, I'm Eduardo Talarico (dudushy) :smile:
+## `Hello World`, I'm Eduardo "dudushy" Talarico :smile:
 > <img align="left" alt="Brazil" width="22px" src="img/brazil.png" />Brazilian, 23 years old :birthday:
 
 ### :trophy: Goals:
@@ -311,31 +311,34 @@
 ---
 ## :mortar_board: Formation:
 
-- Complete high school at **Colégio Ideal** *(2018)* :heavy_check_mark:
-- Complete university in **Computer Science** at **UNIP (Universidade Paulista)** *(2019 - 2022)* :heavy_check_mark:
+- :heavy_check_mark: *(2018)* Complete high school **Colégio Ideal**
+- :heavy_check_mark: *(2019 - 2022)* Complete university **Computer Science** - **UNIP (Universidade Paulista)**
 
 ---
 ## :bookmark_tabs: Experience:
 
-- Trainee **SPEDO TECNOLOGIA LTDA** (*05/2022 - 12/2022*) :heavy_check_mark:
-    > 1. Web Application Development (PHP, JavaScript, Angular)
-    > 2. Mobile Applications Development (Ionic, Angular, NodeJS)
-    > 3. Database structuring and maintenance (MySQL, phpMyAdmin, SQLite)
-    > 4. Integration of plugins, pages, components, media and services
-    > 5. Use of Web Services and APIs
-    > 6. Creation of layouts, color palettes
-    > 7. Development and maintenance of multiple apps
-    > 8. Bug fixes
-    > 9. Dynamic and responsive interfaces
-    > 10. File manipulation
-    > 11. Text, image, date and data formatting
-    > 12. Cloud data sync
-    > 13. Using of Emulators to test and develop apps
+- :heavy_check_mark: (*05/2022 - 12/2022*) Estagiário **SPEDO COMERCIO DE PRODUTOS AUTOMOTIVOS E SERVICOS LTDA**
 
-- Systems Analyst **SPEDO TECNOLOGIA LTDA** (*02/2023 - 12/2023*) :heavy_check_mark:
-    > 1. Structuring and development of Mobile Applications (Ionic, Angular, NodeJS)
-    > 2. Database creation and use (SQLite)
-    > 3. Use of Web Services and APIs
+- :heavy_check_mark: (*02/2023 - 12/2023*) Systems Development Analyst **SPEDO COMERCIO DE PRODUTOS AUTOMOTIVOS E SERVICOS LTDA**
+
+- :diamond_shape_with_a_dot_inside: (*02/2024*) Information Systems Programmer  **Upriset Solucoes**
+
+###### Summary of activities:
+> - Web Application Development (PHP, JavaScript, Angular)
+> - Mobile application development (Ionic, Angular, NodeJS)
+> - Database structuring and maintenance (MySQL, phpMyAdmin, SQLite)
+> - Integration of plugins, pages, components, media and services
+> - Consumption of Web Services and APIs
+> - Creating layouts and color palettes
+> - Development and maintenance of multiple apps
+> - Bug fixing
+> - Dynamic and responsive interfaces
+> - File handling
+> - Text, image, date and data formatting
+> - Cloud data synchronization
+> - Using emulators to test and develop apps
+> - Structuring and developing mobile applications
+> - Creating and using databases (SQLite)
 
 ---
 ## :heavy_plus_sign: Additional information:
