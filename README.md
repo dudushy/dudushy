@@ -3,7 +3,7 @@
 <details>
 <summary>:green_circle: PTBR</summary>
 
-## `Olá mundo`, sou o Eduardo Talarico (dudushy) :smile:
+## `Olá mundo`, sou o Eduardo "dudushy" Talarico :smile:
 > <img align="left" alt="Brazil" width="22px" src="img/brazil.png" />Brasileiro, 23 anos :birthday:
 
 ### :trophy: Objetivos:
@@ -71,6 +71,10 @@
 - <img align="left" alt="TypeScript" width="26px" src="img/typescript.png" /> TypeScript
     
 - <img align="left" alt="SASS" width="26px" src="img/sass.png" /> SASS
+
+- <img align="left" alt="BASH" width="26px" src="img/bash.png" /> BASH
+
+- <img align="left" alt="BATCH" width="26px" src="img/batch.png" /> BATCH
 <br>
 
 ### :hammer_and_wrench: Ferramentas conhecidas:
@@ -112,36 +116,49 @@
 - <img align="left" alt="Angular" width="26px" src="img/angular.png" /> [Angular][angular]
     
 - <img align="left" alt="Firebase" width="26px" src="img/firebase.png" /> [Firebase][firebase]
+
+- <img align="left" alt="WSL" width="26px" src="img/wsl.webp" /> [WSL][wsl]
+
+- <img align="left" alt="DBeaver" width="26px" src="img/dbeaver.png" /> [DBeaver][dbeaver]
+
+- <img align="left" alt="WinSCP" width="26px" src="img/winscp.png" /> [WinSCP][winscp]
+
+- <img align="left" alt="CodeIgniter" width="26px" src="img/codeigniter.webp" /> [CodeIgniter][codeigniter]
+
+- <img align="left" alt="Composer" width="26px" src="img/composer.png" /> [Composer][composer]
 <br>
 
 ---
 ## :mortar_board: Formação:
 
-- Ensino médio completo no **Colégio Ideal** *(2018)* :heavy_check_mark:
-- Ensino superior completo em **Ciência da Computação** na **UNIP (Universidade Paulista)** *(2019 - 2022)* :heavy_check_mark:
+- :heavy_check_mark: *(2018)* Ensino médio completo **Colégio Ideal**
+- :heavy_check_mark: *(2019 - 2022)* Ensino superior completo **Ciência da Computação** - **UNIP (Universidade Paulista)**
 
 ---
 ## :bookmark_tabs: Experiência:
 
-- Estagiário **SPEDO TECNOLOGIA LTDA** (*05/2022 - 12/2022*) :heavy_check_mark:
-    > 1. Desenvolvimento de Aplicação Web (PHP, JavaScript, Angular)
-    > 2. Desenvolvimento de Aplicações Mobile (Ionic, Angular, NodeJS)
-    > 3. Estruturação e manutenção em Banco de Dados (MySQL, phpMyAdmin, SQLite)
-    > 4. Integração de plugins, páginas, componentes, mídias e serviços
-    > 5. Consumo de Web Services e APIs
-    > 6. Criação de layouts, paletas de cores
-    > 7. Desenvolvimento e manutenção de múltiplos apps
-    > 8. Correção de bugs
-    > 9. Interfaces dinâmicas e responsivas
-    > 10. Manipulação de arquivos
-    > 11. Formatação de texto, imagem, data e dados
-    > 12. Sincronização de dados em nuvem
-    > 13. Utilização de Emuladores para testar e desenvolver apps
+- :heavy_check_mark: (*05/2022 - 12/2022*) Estagiário **SPEDO COMERCIO DE PRODUTOS AUTOMOTIVOS E SERVICOS LTDA**
 
-- Analista de Sistemas **SPEDO TECNOLOGIA LTDA** (*02/2023*) :diamond_shape_with_a_dot_inside:
-    > 1. Estruturação e desenvolvimento de Aplicações Mobile (Ionic, Angular, NodeJS)
-    > 2. Criação e consumo de Banco de Dados (SQLite)
-    > 3. Consumo de Web Services e APIs
+- :heavy_check_mark: (*02/2023 - 12/2023*) Analista de Desenvolvimento de Sistemas **SPEDO COMERCIO DE PRODUTOS AUTOMOTIVOS E SERVICOS LTDA**
+
+- :diamond_shape_with_a_dot_inside: (*02/2024*) Programador de Sistemas de Informação  **Upriset Solucoes**
+
+###### Resumo de atividades:
+> Desenvolvimento de Aplicações Web (PHP, JavaScript, Angular)
+> Desenvolvimento de Aplicações Mobile (Ionic, Angular, NodeJS)
+> Estruturação e manutenção em Banco de Dados (MySQL, phpMyAdmin, SQLite)
+> Integração de plugins, páginas, componentes, mídias e serviços
+> Consumo de Web Services e APIs
+> Criação de layouts, paletas de cores
+> Desenvolvimento e manutenção de múltiplos apps
+> Correção de bugs
+> Interfaces dinâmicas e responsivas
+> Manipulação de arquivos
+> Formatação de texto, imagem, data e dados
+> Sincronização de dados em nuvem
+> Utilização de Emuladores para testar e desenvolver apps
+> Estruturação e desenvolvimento de Aplicações Mobile
+> Criação e consumo de Banco de Dados (SQLite)
 
 ---
 ## :heavy_plus_sign: Informações adicionais:
@@ -234,6 +251,10 @@
 - <img align="left" alt="TypeScript" width="26px" src="img/typescript.png" /> TypeScript
     
 - <img align="left" alt="SASS" width="26px" src="img/sass.png" /> SASS
+
+- <img align="left" alt="BASH" width="26px" src="img/bash.png" /> BASH
+
+- <img align="left" alt="BATCH" width="26px" src="img/batch.png" /> BATCH
 <br>
 
 ### :hammer_and_wrench: Known tools:
@@ -275,6 +296,16 @@
 - <img align="left" alt="Angular" width="26px" src="img/angular.png" /> [Angular][angular]
     
 - <img align="left" alt="Firebase" width="26px" src="img/firebase.png" /> [Firebase][firebase]
+
+- <img align="left" alt="WSL" width="26px" src="img/wsl.webp" /> [WSL][wsl]
+
+- <img align="left" alt="DBeaver" width="26px" src="img/dbeaver.png" /> [DBeaver][dbeaver]
+
+- <img align="left" alt="WinSCP" width="26px" src="img/winscp.png" /> [WinSCP][winscp]
+
+- <img align="left" alt="CodeIgniter" width="26px" src="img/codeigniter.webp" /> [CodeIgniter][codeigniter]
+
+- <img align="left" alt="Composer" width="26px" src="img/composer.png" /> [Composer][composer]
 <br>
 
 ---
@@ -301,7 +332,7 @@
     > 12. Cloud data sync
     > 13. Using of Emulators to test and develop apps
 
-- Systems Analyst **SPEDO TECNOLOGIA LTDA** (*02/2023*) :diamond_shape_with_a_dot_inside:
+- Systems Analyst **SPEDO TECNOLOGIA LTDA** (*02/2023 - 12/2023*) :heavy_check_mark:
     > 1. Structuring and development of Mobile Applications (Ionic, Angular, NodeJS)
     > 2. Database creation and use (SQLite)
     > 3. Use of Web Services and APIs
@@ -356,9 +387,9 @@
 
 
 [linkedin]: https://www.linkedin.com/in/eduardo-talarico/
-[discord]: https://discordapp.com/users/564590102949658634
+[discord]: https://discordapp.com/users/564590102949658634/
 [steam]: https://steamcommunity.com/id/dudushy/
-[spotify]: https://open.spotify.com/user/u8cq59bsrp4cdmp2haxrxu9pi
+[spotify]: https://open.spotify.com/user/u8cq59bsrp4cdmp2haxrxu9pi/
 [vscode]: https://code.visualstudio.com/
 [pgadmin]: https://www.pgadmin.org/
 [netbeans]: https://netbeans.apache.org/
@@ -366,15 +397,20 @@
 [notepadplusplus]: https://notepad-plus-plus.org/
 [vs]: https://visualstudio.microsoft.com/vs/
 [postman]: https://www.postman.com/
-[ssms]: https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+[ssms]: https://docs.microsoft.com/sql/ssms/
 [githubdesktop]: https://desktop.github.com/
-[xampp]: https://www.apachefriends.org/pt_br/index.html
+[xampp]: https://www.apachefriends.org/index.html/
 [bluestacks]: https://www.bluestacks.com/
 [insomnia]: https://insomnia.rest/
-[androidstudio]: https://developer.android.com/studio
+[androidstudio]: https://developer.android.com/studio/
 [filezilla]: https://filezilla-project.org/
 [ionic]: https://ionic.io/
 [nodejs]: https://nodejs.org/
 [aws]: https://aws.amazon.com/
 [angular]: https://angular.io/
 [firebase]: https://firebase.google.com/
+[wsl]: https://ubuntu.com/desktop/wsl/
+[dbeaver]: https://dbeaver.io/download/
+[winscp]: https://winscp.net/download.php/
+[codeigniter]: https://codeigniter.com/download/
+[composer]: https://getcomposer.org/download/
