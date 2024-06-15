@@ -131,17 +131,17 @@
 ---
 ## :mortar_board: Formação:
 
-- :heavy_check_mark: *(2018)* Ensino médio completo **Colégio Ideal**
-- :heavy_check_mark: *(2019 - 2022)* Ensino superior completo **Ciência da Computação** - **UNIP (Universidade Paulista)**
+- :heavy_check_mark: *(2018)* Ensino médio completo - **Colégio Ideal**
+- :heavy_check_mark: *(2019 - 2022)* Ensino superior completo - **Ciência da Computação** [**UNIP**]
 
 ---
 ## :bookmark_tabs: Experiência:
 
-- :heavy_check_mark: (*05/2022 - 12/2022*) Estagiário **SPEDO COMERCIO DE PRODUTOS AUTOMOTIVOS E SERVICOS LTDA**
+- :heavy_check_mark: (*05/2022 - 12/2022*) Estagiário - **SPEDO COMERCIO DE PRODUTOS AUTOMOTIVOS E SERVICOS LTDA**
 
-- :heavy_check_mark: (*02/2023 - 12/2023*) Analista de Desenvolvimento de Sistemas **SPEDO COMERCIO DE PRODUTOS AUTOMOTIVOS E SERVICOS LTDA**
+- :heavy_check_mark: (*02/2023 - 12/2023*) Analista de Desenvolvimento de Sistemas - **SPEDO COMERCIO DE PRODUTOS AUTOMOTIVOS E SERVICOS LTDA**
 
-- :diamond_shape_with_a_dot_inside: (*02/2024*) Programador de Sistemas de Informação  **Upriset Solucoes**
+- :diamond_shape_with_a_dot_inside: (*02/2024*) Programador de Sistemas de Informação - **Upriset Solucoes**
 
 ###### Resumo de atividades:
 > - Desenvolvimento de Aplicações Web (PHP, JavaScript, Angular)
@@ -311,17 +311,17 @@
 ---
 ## :mortar_board: Formation:
 
-- :heavy_check_mark: *(2018)* Complete high school **Colégio Ideal**
-- :heavy_check_mark: *(2019 - 2022)* Complete university **Computer Science** - **UNIP (Universidade Paulista)**
+- :heavy_check_mark: *(2018)* Complete high school - **Colégio Ideal**
+- :heavy_check_mark: *(2019 - 2022)* Complete university - **Computer Science** [**UNIP**]
 
 ---
 ## :bookmark_tabs: Experience:
 
-- :heavy_check_mark: (*05/2022 - 12/2022*) Estagiário **SPEDO COMERCIO DE PRODUTOS AUTOMOTIVOS E SERVICOS LTDA**
+- :heavy_check_mark: (*05/2022 - 12/2022*) Trainee - **SPEDO COMERCIO DE PRODUTOS AUTOMOTIVOS E SERVICOS LTDA**
 
-- :heavy_check_mark: (*02/2023 - 12/2023*) Systems Development Analyst **SPEDO COMERCIO DE PRODUTOS AUTOMOTIVOS E SERVICOS LTDA**
+- :heavy_check_mark: (*02/2023 - 12/2023*) Systems Development Analyst - **SPEDO COMERCIO DE PRODUTOS AUTOMOTIVOS E SERVICOS LTDA**
 
-- :diamond_shape_with_a_dot_inside: (*02/2024*) Information Systems Programmer  **Upriset Solucoes**
+- :diamond_shape_with_a_dot_inside: (*02/2024*) Information Systems Programmer - **Upriset Solucoes**
 
 ###### Summary of activities:
 > - Web Application Development (PHP, JavaScript, Angular)
