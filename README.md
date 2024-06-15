@@ -75,6 +75,8 @@
 - <img align="left" alt="BASH" width="26px" src="img/bash.png" /> BASH
 
 - <img align="left" alt="BATCH" width="26px" src="img/batch.png" /> BATCH
+
+- <img align="left" alt="YAML" width="26px" src="img/yaml.png" /> YAML
 <br>
 
 ### :hammer_and_wrench: Ferramentas conhecidas:
@@ -255,6 +257,8 @@
 - <img align="left" alt="BASH" width="26px" src="img/bash.png" /> BASH
 
 - <img align="left" alt="BATCH" width="26px" src="img/batch.png" /> BATCH
+
+- <img align="left" alt="YAML" width="26px" src="img/yaml.png" /> YAML
 <br>
 
 ### :hammer_and_wrench: Known tools:
