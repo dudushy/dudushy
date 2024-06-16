@@ -3,7 +3,7 @@
 <details>
 <summary>:green_circle: PTBR</summary>
 
-## `Olá mundo`, sou o Eduardo "dudushy" Talarico :smile:
+## `Olá mundo`, sou o Eduardo 'dudushy' Talarico :smile:
 > <img align="left" alt="Brazil" width="22px" src="img/brazil.png" />Brasileiro, 23 anos :birthday:
 
 ### :trophy: Objetivos:
@@ -185,7 +185,7 @@
 <details>
 <summary>:large_blue_circle: ENG</summary>
 
-## `Hello World`, I'm Eduardo "dudushy" Talarico :smile:
+## `Hello World`, I'm Eduardo 'dudushy' Talarico :smile:
 > <img align="left" alt="Brazil" width="22px" src="img/brazil.png" />Brazilian, 23 years old :birthday:
 
 ### :trophy: Goals:
