@@ -1,7 +1,7 @@
 # `Curriculum Vitae`
-:green_circle: [PT-BR](PDFs/cv-ptbr).pdf)
+:green_circle: [PT-BR](PDFs/cv-ptbr.pdf)
 
-:large_blue_circle: [ENG](PDFs/cv-eng).pdf)
+:large_blue_circle: [ENG](PDFs/cv-eng.pdf)
 
 
 ---
